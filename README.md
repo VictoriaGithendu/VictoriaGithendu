@@ -10,7 +10,7 @@
 
 ### 📫 How to Reach Me
 - 📧 **Email**: [ngendogithendu@gmail.com](mailto:ngendogithendu@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/victoria-githendu]  
+- 💼 **LinkedIn**: [https://linkedin.com/in/victoria-githendu]  
 - 🌐 **Portfolio**: [https://victoriagithendu.github.io/]
 
 ---
