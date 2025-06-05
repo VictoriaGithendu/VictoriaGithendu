@@ -1,6 +1,5 @@
                                              ### Hi there, I am Victoria 👋
                                                 ## A Data Analyst
-<!--
 **VictoriaGithendu/VictoriaGithendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 ---
 ### 🛠️ Skills & Tools
@@ -35,4 +34,4 @@ When I’m not working with data, I enjoy **baking** and **reading**!
 ---
 
 _Thanks for visiting my profile!_
--->
+
