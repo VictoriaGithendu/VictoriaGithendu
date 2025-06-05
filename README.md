@@ -1,5 +1,5 @@
 ### Hi there, I am Victoria 👋
-## A Data Analyst
+### A Data Analyst
 ---
 ### 🛠️ Skills & Tools
 - **SQL** – For querying and managing data  
